@@ -9,10 +9,10 @@ API RESTful basica criada com PHP puro usando Docker
 ## Como rodar o projeto com Docker
 
 Builde com 
-    docker build -t php-api .
+    "docker build -t php-api ."
 
 rode com
-    docker run -p 8000:8000 php-api
+    "docker run -p 8000:8000 php-api"
 
 Ex de chamada
-    http://localhost:8000/usuarios
+    "http://localhost:8000/usuarios"
