@@ -1,5 +1,4 @@
 # DockerAPI
-=======
 API RESTful basica criada com PHP puro usando Docker
 
 ## 🔧 Tecnologias
